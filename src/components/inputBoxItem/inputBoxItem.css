@@ -1,0 +1,21 @@
+
+.wrapper{
+    height: 40px;
+    background-color: #C4E1E5;
+    margin-top: -7%;
+    margin-left: 37%;
+    width: 350px;
+    font-size: 10px;
+    text-align: start;
+    color: grey;
+}
+
+.margin{
+    margin-left: 22%;
+    height: 30px;
+    background-color: #1B1CA2;
+    color: white;
+    width: 40px;
+    margin-top: -35px;
+    position: absolute;
+}
